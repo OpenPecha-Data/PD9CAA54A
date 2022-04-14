@@ -1,0 +1,100 @@
+id: 1e8606175cdc4de18352d81ae549353b
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  7359f3f379744bb4a43dc289c11a97c7:
+    span:
+      start: 7222
+      end: 8651
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP75DD98C31AA5C457
+  5219f0ee4405401687af999ceaa4f5f4:
+    span:
+      start: 8653
+      end: 10104
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP8D140057092BB9F6
+  b46cd4b35c96443c87741ee676ef45de:
+    span:
+      start: 1427
+      end: 2876
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP44B8A843D960EEEE
+  3ed0ceba252a4cdeae8c13a1bb982719:
+    span:
+      start: 14422
+      end: 15860
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP0CDE0E042251877F
+  4d2c1f7352fc4d0ba6b22d647147b285:
+    span:
+      start: 10106
+      end: 11526
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP2DDED11CB87CCD62
+  4449f35e44534c328b88d28264154f8c:
+    span:
+      start: 5773
+      end: 7220
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP2125E83A9D53F06E
+  fd3853ec36534e2ea53699ae2ca7f20e:
+    span:
+      start: 0
+      end: 1425
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPEAC06D51409F78CE
+  389ae37ad2074e1da0b3798cd861e5c9:
+    span:
+      start: 11528
+      end: 12947
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPD99F4750937266CC
+  9a17cf7dd42f4028b95c3eb75c42ed92:
+    span:
+      start: 2878
+      end: 4305
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPF991C4B448294F4F
+  b49695ad4e244efb83c11cb60b7f2eb7:
+    span:
+      start: 4307
+      end: 5771
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPD4F6DCF8C59E87F0
+  0a2f1751f40b40dcb08370b4ced4e041:
+    span:
+      start: 12949
+      end: 14420
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP940977FD6FF6F709
+  1223f0c3e5084cfeb002812777c7ce22:
+    span:
+      start: 15862
+      end: 16876
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPE8AAD1F65D86845B
